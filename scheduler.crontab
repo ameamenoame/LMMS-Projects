@@ -1,1 +1,1 @@
-* * * * * /home/fsnowdin/Music/organize.sh >> /home/fsnowdin/Music/cronlog.txt
+0 18 * * * /home/fsnowdin/Music/organize.sh >> /home/fsnowdin/Music/cronlog.txt
