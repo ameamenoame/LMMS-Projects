@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project version="1.0" creator="LMMS" type="instrumenttracksettings" creatorversion="1.2.1">
+  <head/>
+  <instrumenttracksettings muted="0" name="cello" solo="0" type="0">
+    <instrumenttrack pitch="0" fxch="0" basenote="60" pan="0" usemasterpitch="1" vol="59" pitchrange="1">
+      <instrument name="bitinvader">
+        <bitinvader normalize="1" version="0.1" interpolation="1" sampleShape="AAAAADD7SD02vcg9g0AWPsLFRz7Nz3g+MqCUPtR8rD4W78M+gOjaPupa8T49nAM/2jkOP8B/GD+aZyI/SusrP/MENT/6rj0/A+RFPwKfTT8y21Q/G5RbP5jFYT/Ya2c/XoNsPwgJcT8L+nQ/+FN4P78Uez+sOn0/bcR+Pw+xfz8AAIA/D7F/P23Efj+sOn0/vhR7P/hTeD8K+nQ/CAlxP16DbD/Ya2c/l8VhPxqUWz8w21Q/Ap9NPwTkRT/4rj0/8wQ1P0jrKz+ZZyI/vX8YP9k5Dj89nAM/5lrxPn/o2j4Q78M+0nysPjOglD7Fz3g+wcVHPnpAFj4wvcg9/fpIPS69u7Ms+0i9R73IvYVAFr7NxUe+0M94vjiglL7XfKy+Fe/DvoXo2r7rWvG+P5wDv9s5Dr/Afxi/m2civ0rrK7/1BDW/+q49vwPkRb8Dn02/NNtUvxmUW7+YxWG/2Wtnv2GDbL8ICXG/C/p0v/lTeL++FHu/rDp9v23Efr8PsX+/AACAvw+xf79txH6/rDp9v74Ue7/3U3i/Cfp0vwgJcb9dg2y/1Wtnv5jFYb8ZlFu/L9tUvwOfTb8D5EW/9649v+8ENb9K6yu/l2civ7x/GL/bOQ6/PJwDv+Na8b526Nq+Fe/Dvs98rL4ooJS+z894vrzFR750QBa+BL3IvSb7SL0=" sampleLength="128"/>
+      </instrument>
+      <eldata fres="0.5" fcut="14000" fwet="0" ftype="0">
+        <elvol userwavefile="" hold="0" latt="0" lspd_syncmode="0" rel="0.727" lpdel="0" lamt="0" lshp="0" lspd_numerator="4" ctlenvamt="0" att="0.517" dec="0" amt="1" lspd="0.1" lspd_denominator="4" pdel="0" x100="0" sustain="1"/>
+        <elcut userwavefile="" hold="0.499" latt="0" lspd_syncmode="0" rel="0.1" lpdel="0" lamt="0" lshp="0" lspd_numerator="4" ctlenvamt="0" att="0" dec="0.499" amt="0" lspd="0.1" lspd_denominator="4" pdel="0" x100="0" sustain="0.501"/>
+        <elres userwavefile="" hold="0.499" latt="0" lspd_syncmode="0" rel="0.1" lpdel="0" lamt="0" lshp="0" lspd_numerator="4" ctlenvamt="0" att="0" dec="0.499" amt="0" lspd="0.1" lspd_denominator="4" pdel="0" x100="0" sustain="0.501"/>
+      </eldata>
+      <chordcreator chord="0" chordrange="1" chord-enabled="0"/>
+      <arpeggiator arpmiss="0" arptime_numerator="4" arpmode="0" arp="0" arpcycle="0" arptime_denominator="4" arpdir="0" arptime_syncmode="0" arpgate="100" arp-enabled="0" arpskip="0" arptime="100" arprange="1"/>
+      <midiport outputchannel="1" fixedinputvelocity="-1" outputprogram="1" basevelocity="127" inputcontroller="0" inputchannel="0" fixedoutputnote="-1" writable="0" readable="0" outputcontroller="0" fixedoutputvelocity="-1"/>
+      <fxchain enabled="0" numofeffects="0"/>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>
